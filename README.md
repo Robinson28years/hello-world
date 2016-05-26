@@ -4,6 +4,7 @@
 #include <string.h>
 int main()
 {
+asdhfjklasdhfjkahsdljkfhasjldkfhasdhfasdllaskj
 	int pos=-1,man[1000]={0},t=0,count=0,num;
 	scanf("%d",&num);
 	while(1)
