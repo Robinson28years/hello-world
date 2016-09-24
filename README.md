@@ -4,3 +4,6 @@
 #include <string.h>
 test
 test
+iss01
+fangchongtu
+ceshi
