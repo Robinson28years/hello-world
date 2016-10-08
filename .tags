@@ -1,0 +1,10 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+hello-world  //c	D:\lsu\hello-world\README.md	/^# hello-world  \/\/c$/;"	function	line:1
+include <stdio.h>	D:\lsu\hello-world\README.md	/^#include <stdio.h>$/;"	function	line:2
+include <math.h>	D:\lsu\hello-world\README.md	/^#include <math.h>$/;"	function	line:3
+include <string.h>	D:\lsu\hello-world\README.md	/^#include <string.h>$/;"	function	line:4
