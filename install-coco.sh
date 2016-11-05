@@ -2,6 +2,12 @@
 sleep 5s
 sudo apt-get update
 
+lijingqiu 15103330128
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+
+
+
 sleep 5s
 sudo apt-get -y install make build-essential curl git zlib1g-dev python2.7 libkrb5-dev
 
