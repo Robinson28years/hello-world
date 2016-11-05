@@ -1,4 +1,7 @@
 #!/bin/bash
+
+llllllllllllll
+jjjjjjjjjjjjj
 sleep 5s
 sudo apt-get update
 
